@@ -6,7 +6,7 @@ An iOS app to introduce your name, school, and info about any pets you have, etc
 
 ### App Walk-though
 
-<img src="[YOUR_GIF_URL_HERE](https://github.com/angelamu2012/codepathiOS/blob/406af447ce379c78ec2d2c800fb8fa77eae6a76d/demo.gif)" width=200><br>
+<img src="https://github.com/angelamu2012/codepathiOS/blob/406af447ce379c78ec2d2c800fb8fa77eae6a76d/demo.gif" width=200><br>
 
 ### Required Features
 
